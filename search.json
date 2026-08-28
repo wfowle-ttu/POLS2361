@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
+    "objectID": "lectures/lecture-82826.html",
+    "href": "lectures/lecture-82826.html",
+    "title": "Lecture 8-28-2026",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Rival States vs Non-Rival States\n\nIn Rival States, population aging is negatively associated with military spending\nIn Rival States population aging is negatively associated with armed forces personnel counts\nIn Non-Rival States with an aging population, with an already low level of military spending, the same cuts have further negative effects on military spending and lack of external threats mean that these states spend the minimum they can on their military.\n\n\n\n\n\n\n\n\nNote\n\n\n\nWhen testing these hypotheses it’s important to find the variables for \\(x\\) and \\(y\\) where \\(x\\) is commonly referred to as the independent variable or explanatory variable. Whereas \\(y\\) is commonly referred to as the dependant variable, the outcome, or the response variable.\n\n\nIn our Hypotheses we have 3 variables:\n\nPopulation age, military spending, and rivalry status.\n\nAnother variable \\(z\\) is considered our moderating variable (or condition), this reveals that the relationship between \\(x\\) and \\(y\\) differs based on the presence of \\(z\\).\n\n\nIn this step of research, we want to find empirical patterns in our associations to see if our hypotheses is correct.\nWhile doing this you have to consider:\n\nSample Size (In this hypotheses all countries between 1970-2015)\n\nSpacial: Which countries do you select (all African countries?)\nTemporal: What historical period (Post cold war, pre cold war, pre world war 2?)\n\nUnit of Analysis\n\nUSA from 1975 -&gt; 2015\nChina from 1975 -&gt; 2015\nMilitary personnel per 1000 people.\n\nOne reason to choose this amount is because countries have a variable population size and therefore comparing purely active personnel as a total count is not a fair comparison to how aggressively a country is staffing it’s military.\n\n\nEstimator\n\nA statistical platform in which estimate the association between x and y.\nIf our outcome variable is continuous, binary, dichotamous, ordinal, nominal, event count.\n\nSystematic:\n\nWhy does military spending change as a result of our other variables?\n\nRandom Noise\n\nEffectively we want to ignore random noise that affects our variables but do not have anything to do with our hypothesus.\n\nOrdinal: 5 multiple choices with an order.\nThese are ways to do statistical models.\n\n\n\n\n\n\n\nNote\n\n\n\nFor our final paper we’re going to want to inlcude our Operationalization and our Sample."
+  },
+  {
+    "objectID": "lectures/lecture-82826.html#hypotheses",
+    "href": "lectures/lecture-82826.html#hypotheses",
+    "title": "Lecture 8-28-2026",
+    "section": "",
+    "text": "Rival States vs Non-Rival States\n\nIn Rival States, population aging is negatively associated with military spending\nIn Rival States population aging is negatively associated with armed forces personnel counts\nIn Non-Rival States with an aging population, with an already low level of military spending, the same cuts have further negative effects on military spending and lack of external threats mean that these states spend the minimum they can on their military.\n\n\n\n\n\n\n\n\nNote\n\n\n\nWhen testing these hypotheses it’s important to find the variables for \\(x\\) and \\(y\\) where \\(x\\) is commonly referred to as the independent variable or explanatory variable. Whereas \\(y\\) is commonly referred to as the dependant variable, the outcome, or the response variable.\n\n\nIn our Hypotheses we have 3 variables:\n\nPopulation age, military spending, and rivalry status.\n\nAnother variable \\(z\\) is considered our moderating variable (or condition), this reveals that the relationship between \\(x\\) and \\(y\\) differs based on the presence of \\(z\\).\n\n\nIn this step of research, we want to find empirical patterns in our associations to see if our hypotheses is correct.\nWhile doing this you have to consider:\n\nSample Size (In this hypotheses all countries between 1970-2015)\n\nSpacial: Which countries do you select (all African countries?)\nTemporal: What historical period (Post cold war, pre cold war, pre world war 2?)\n\nUnit of Analysis\n\nUSA from 1975 -&gt; 2015\nChina from 1975 -&gt; 2015\nMilitary personnel per 1000 people.\n\nOne reason to choose this amount is because countries have a variable population size and therefore comparing purely active personnel as a total count is not a fair comparison to how aggressively a country is staffing it’s military.\n\n\nEstimator\n\nA statistical platform in which estimate the association between x and y.\nIf our outcome variable is continuous, binary, dichotamous, ordinal, nominal, event count.\n\nSystematic:\n\nWhy does military spending change as a result of our other variables?\n\nRandom Noise\n\nEffectively we want to ignore random noise that affects our variables but do not have anything to do with our hypothesus.\n\nOrdinal: 5 multiple choices with an order.\nThese are ways to do statistical models.\n\n\n\n\n\n\n\nNote\n\n\n\nFor our final paper we’re going to want to inlcude our Operationalization and our Sample."
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
