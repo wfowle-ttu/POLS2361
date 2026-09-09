@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "lectures/lecture_83126.html",
+    "href": "lectures/lecture_83126.html",
+    "title": "Lecture 8-31-2026",
+    "section": "",
+    "text": "Reference Notes\n\nState, Sovereignty\nThere is no higher power above the state within it’s own territory. Each state should be allowed to dictate it’s own behavior. No international actor should be allowed to dictate a state’s behavior. This is the concept of Sovereignty.\nAnarchy is the absecene of supra-national authority. There is no enforcement mechanism other than the soverignty of the state.\nThe treaty of Westphalia (1648) is considered as the reference point for the idea of the modern state or when state sovereignty was first recognized.\nA State is a formal legal system with a central authority that makes and enforces it rules within a defined territory.\nA nation is a cultural group of people and it not recognized as an international actor.\nNation-State is a state that shares within itself a unified social and cultural identity.\nCountry is a common term to refer to a geographic area of a state.\nExtra-Systemic Conflict: When a state fights against a non-state actor.\n\nUS achieved internal sovreighty by declaring itself indepdent in 1776, but it lacked external sovreighty (it wasn’t recognized by external states). But in 1781 when the Treaty of Paris was signed the US gained external sovreighty.\nAutonomous Territories look like states but are not actually states, e.g. Greenland.\n\nx"
+  },
+  {
     "objectID": "lectures/lecture-82826.html",
     "href": "lectures/lecture-82826.html",
     "title": "Lecture 8-28-2026",
@@ -14,20 +28,6 @@
     "text": "Rival States vs Non-Rival States\n\nIn Rival States, population aging is negatively associated with military spending\nIn Rival States population aging is negatively associated with armed forces personnel counts\nIn Non-Rival States with an aging population, with an already low level of military spending, the same cuts have further negative effects on military spending and lack of external threats mean that these states spend the minimum they can on their military.\n\n\n\n\n\n\n\n\nNote\n\n\n\nWhen testing these hypotheses it’s important to find the variables for \\(x\\) and \\(y\\) where \\(x\\) is commonly referred to as the independent variable or explanatory variable. Whereas \\(y\\) is commonly referred to as the dependant variable, the outcome, or the response variable.\n\n\nIn our Hypotheses we have 3 variables:\n\nPopulation age, military spending, and rivalry status.\n\nAnother variable \\(z\\) is considered our moderating variable (or condition), this reveals that the relationship between \\(x\\) and \\(y\\) differs based on the presence of \\(z\\).\n\n\nIn this step of research, we want to find empirical patterns in our associations to see if our hypotheses is correct.\nWhile doing this you have to consider:\n\nSample Size (In this hypotheses all countries between 1970-2015)\n\nSpacial: Which countries do you select (all African countries?)\nTemporal: What historical period (Post cold war, pre cold war, pre world war 2?)\n\nUnit of Analysis\n\nUSA from 1975 -&gt; 2015\nChina from 1975 -&gt; 2015\nMilitary personnel per 1000 people.\n\nOne reason to choose this amount is because countries have a variable population size and therefore comparing purely active personnel as a total count is not a fair comparison to how aggressively a country is staffing it’s military.\n\n\nEstimator\n\nA statistical platform in which estimate the association between x and y.\nIf our outcome variable is continuous, binary, dichotamous, ordinal, nominal, event count.\n\nSystematic:\n\nWhy does military spending change as a result of our other variables?\n\nRandom Noise\n\nEffectively we want to ignore random noise that affects our variables but do not have anything to do with our hypothesus.\n\nOrdinal: 5 multiple choices with an order.\nThese are ways to do statistical models.\n\n\n\n\n\n\n\nNote\n\n\n\nFor our final paper we’re going to want to inlcude our Operationalization and our Sample."
   },
   {
-    "objectID": "lectures/lecture_9226.html",
-    "href": "lectures/lecture_9226.html",
-    "title": "Lecture 9-2-26",
-    "section": "",
-    "text": "Donald Trump video:\nDonald Trump focuses on power as to why the US has a right to own Greenland. Denmark is not willing to defend Greenland and therefore the US should have the right to Greenland as it’s territory.\nTrump views the issue of whose territory is Greenland’s as an issue of power, the perspective of the citizens of Greenland doesn’t matter it’s purely a power struggle.\nHe cares more about what can be done rather than what should be done.\nMark Carney:\nDrops in the Melian Dialoge as step one. Firstly, he states that the world order is no longer based entirely on a rules based order. In order to protect sovreighnty countries like Canada must diversify their partnerships.\n\nMelian Dialogue\nThucydides’ account of Peloponnesian War. “Right as the world goes, is only in question beteween equals in power, while the strong do what they can and the weak suffer what they must.”\nSoft Power: Can be seen as the global image of a country in terms of a positive or negative view. Japan is ranked high in soft power because of the positive image they have.\n\nWhen a country is very dependant can create a weaker country or reduce bargaining power."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "notes",
@@ -35,10 +35,94 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "lectures/lecture_83126.html",
-    "href": "lectures/lecture_83126.html",
-    "title": "Lecture 8-31-2026",
+    "objectID": "lectures/lecture_9926.html",
+    "href": "lectures/lecture_9926.html",
+    "title": "Lecture 9-9-2026",
     "section": "",
-    "text": "Reference Notes\n\nState, Sovereignty\nThere is no higher power above the state within it’s own territory. Each state should be allowed to dictate it’s own behavior. No international actor should be allowed to dictate a state’s behavior. This is the concept of Sovereignty.\nAnarchy is the absecene of supra-national authority. There is no enforcement mechanism other than the soverignty of the state.\nThe treaty of Westphalia (1648) is considered as the reference point for the idea of the modern state or when state sovereignty was first recognized.\nA State is a formal legal system with a central authority that makes and enforces it rules within a defined territory.\nA nation is a cultural group of people and it not recognized as an international actor.\nNation-State is a state that shares within itself a unified social and cultural identity.\nCountry is a common term to refer to a geographic area of a state.\nExtra-Systemic Conflict: When a state fights against a non-state actor.\n\nUS achieved internal sovreighty by declaring itself indepdent in 1776, but it lacked external sovreighty (it wasn’t recognized by external states). But in 1781 when the Treaty of Paris was signed the US gained external sovreighty.\nAutonomous Territories look like states but are not actually states, e.g. Greenland.\n\nx"
+    "text": "Balance of Power Theory and power-transition theory are both systemic theories, they explain war and peace with reference to the overall distribution of power across the system.\n\n\n\nDisparty in power between major powers can make states feel insecure.\nPower imbalance is treated as a paossible cause of war, and bipolarity is presented as potentially producting greater stability.\nThe balance-of-power tradition developed in multipolar systems where states sought to prevent the emergence of a hegemonic power.\nAlliance formation is one method of balancing power.\nA fundamental assumption is that states seek power because of security concerns in a self-help system.\n\n\n\n\n\nParity in power between major powers can create insecurity, so power balance is treated as a more probable cause of war.\nPower preponderance can produce a more peacful international system, with implications at both the dyadic and systemic levels.\nThe direct cause of systemic instability is a shift in power between a rising challenger and a dominant status-quo power.\n\nSo in one theory (Balance of Power) two major powers with equal power creates a stable political system, whereas Power Transition Theory states that a single hegemon creates a stable system and countries rising in power create a higher likleihood of conflict.\n\n\n\n\nAnarchy means the lack of a central authority capable of dictating and enforcing the legitimate use of force above sovereign states.\nAnarchy does not mean chaos or complete abscense of order, international orders can and do exist.\nEven realist theories recognize that mechanisms such as the balance of power can create forms of international order.\nAnarchy differentiates international politics from domestic politics, where hierarchical enforcement mechanisms normally exist.\n\n\n\n\n\nSoereignty implies that there are no de jure or de factor enforcement mechanisms reliably superior to states in all matters of security.\nIn a self-help system, states ultimately defend themselves through their own capabilites rather than relying completely on external protection.\nEven when states would prefer mutual restrait such as complete disarmament, each state faces uncertainty about whether the other will remain commited.\n\n\n\n\n\nA state’s attempt at self-defense may involve military build up.\nOther states cannot be certain whether the increased military power is purely defensive.\nEven a defensive buildup can therefore increase the security concerns of rivals or opponents.\nFear of exploitation creates a cooperation versus defection problem.\nAn arms race is a natural outcome of this dilemma."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#balance-of-power-theory",
+    "href": "lectures/lecture_9926.html#balance-of-power-theory",
+    "title": "Lecture 9-9-2026",
+    "section": "",
+    "text": "Disparty in power between major powers can make states feel insecure.\nPower imbalance is treated as a paossible cause of war, and bipolarity is presented as potentially producting greater stability.\nThe balance-of-power tradition developed in multipolar systems where states sought to prevent the emergence of a hegemonic power.\nAlliance formation is one method of balancing power.\nA fundamental assumption is that states seek power because of security concerns in a self-help system."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#power-transition-theory",
+    "href": "lectures/lecture_9926.html#power-transition-theory",
+    "title": "Lecture 9-9-2026",
+    "section": "",
+    "text": "Parity in power between major powers can create insecurity, so power balance is treated as a more probable cause of war.\nPower preponderance can produce a more peacful international system, with implications at both the dyadic and systemic levels.\nThe direct cause of systemic instability is a shift in power between a rising challenger and a dominant status-quo power.\n\nSo in one theory (Balance of Power) two major powers with equal power creates a stable political system, whereas Power Transition Theory states that a single hegemon creates a stable system and countries rising in power create a higher likleihood of conflict."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#anarchy",
+    "href": "lectures/lecture_9926.html#anarchy",
+    "title": "Lecture 9-9-2026",
+    "section": "",
+    "text": "Anarchy means the lack of a central authority capable of dictating and enforcing the legitimate use of force above sovereign states.\nAnarchy does not mean chaos or complete abscense of order, international orders can and do exist.\nEven realist theories recognize that mechanisms such as the balance of power can create forms of international order.\nAnarchy differentiates international politics from domestic politics, where hierarchical enforcement mechanisms normally exist."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#self-help-system",
+    "href": "lectures/lecture_9926.html#self-help-system",
+    "title": "Lecture 9-9-2026",
+    "section": "",
+    "text": "Soereignty implies that there are no de jure or de factor enforcement mechanisms reliably superior to states in all matters of security.\nIn a self-help system, states ultimately defend themselves through their own capabilites rather than relying completely on external protection.\nEven when states would prefer mutual restrait such as complete disarmament, each state faces uncertainty about whether the other will remain commited."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#the-security-dilemma",
+    "href": "lectures/lecture_9926.html#the-security-dilemma",
+    "title": "Lecture 9-9-2026",
+    "section": "",
+    "text": "A state’s attempt at self-defense may involve military build up.\nOther states cannot be certain whether the increased military power is purely defensive.\nEven a defensive buildup can therefore increase the security concerns of rivals or opponents.\nFear of exploitation creates a cooperation versus defection problem.\nAn arms race is a natural outcome of this dilemma."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#classical-realism",
+    "href": "lectures/lecture_9926.html#classical-realism",
+    "title": "Lecture 9-9-2026",
+    "section": "Classical Realism",
+    "text": "Classical Realism\nKey Figures: E. H. Carr and Hans J Morenthau.\n\nCore Assumptions\n\nState behavior originates in power seeking human nature\nInternational and domestic politics share the logic of power politics.\nJustice, law, and morality are conditioned by power politics.\nPower balancing and the distribution of power shape international outcomes."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#morgenthaus-six-principles-of-classical-realism",
+    "href": "lectures/lecture_9926.html#morgenthaus-six-principles-of-classical-realism",
+    "title": "Lecture 9-9-2026",
+    "section": "Morgenthau’s Six Principles of Classical Realism",
+    "text": "Morgenthau’s Six Principles of Classical Realism\n\nPolitics is governed by objective laws rooted in human nature.\nInterest is defined in terms of power.\nInterest defined as power is unversally valid and constate, althought the meaning and forms of power may change.\nThe moral significance of political actions must be considered in the context of political consequences.\nThere is no universially agreed set of moral principals among states.\nThe political sphere is autonomous from legal, moral, or economic spheres, politics should be studied on it’s own terms rather than governed by legal or moral guidelines."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#neorealismstructural-realism",
+    "href": "lectures/lecture_9926.html#neorealismstructural-realism",
+    "title": "Lecture 9-9-2026",
+    "section": "Neorealism/Structural Realism",
+    "text": "Neorealism/Structural Realism\nKenneth Waltz\n\nStates seek power in order to ensure survival under uncertainty reated by anarchy.\nGreat powers are expected to balance rather than bandwagon.\nBipolarity is presented as more stable than multipolarity.\n\n\nDifferences from Classical Realism"
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#defensive-and-offensive-realism",
+    "href": "lectures/lecture_9926.html#defensive-and-offensive-realism",
+    "title": "Lecture 9-9-2026",
+    "section": "Defensive and Offensive Realism",
+    "text": "Defensive and Offensive Realism\nThe speaker in the video essays is John Mearsheimer, he’s an offensive realist.\n\nOffensive Realism\n\nGreat powers seek additional power beyond minimal security.\nThe best route to survival is to acquire as much REGIONAL power as possible.\nGreat powers aspire to regional hegemony when oppurtunity exists.\n\n\n\nDefensive Realism\n\nStates seek enough power to survive and remain secure.\nPower-seeking is justified by survival and security needs.\nBalancing can punish states with excessive power."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#idealism-woodrow-wilson",
+    "href": "lectures/lecture_9926.html#idealism-woodrow-wilson",
+    "title": "Lecture 9-9-2026",
+    "section": "Idealism: Woodrow Wilson",
+    "text": "Idealism: Woodrow Wilson\nWoodrow Wilson’s April 1917 speech to Congress framed US participation of in WWI in idealist terms: “The world must be made safe for democracy”."
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#neoliberal-institutionalism",
+    "href": "lectures/lecture_9926.html#neoliberal-institutionalism",
+    "title": "Lecture 9-9-2026",
+    "section": "Neoliberal Institutionalism",
+    "text": "Neoliberal Institutionalism\n\nThe state system is anarchic\nStates\n\n\nRoles of Institutions According to Neorealists\n\nSet Standards for State behaivor\nDefinee defectio nand create costs for defection\nSpread cooperative norms.\nReduce uncertainty about states’ intetnionas by revealing private info\nResolve disputes\nreduce transaction costs"
+  },
+  {
+    "objectID": "lectures/lecture_9226.html",
+    "href": "lectures/lecture_9226.html",
+    "title": "Lecture 9-2-26",
+    "section": "",
+    "text": "Donald Trump video:\nDonald Trump focuses on power as to why the US has a right to own Greenland. Denmark is not willing to defend Greenland and therefore the US should have the right to Greenland as it’s territory.\nTrump views the issue of whose territory is Greenland’s as an issue of power, the perspective of the citizens of Greenland doesn’t matter it’s purely a power struggle.\nHe cares more about what can be done rather than what should be done.\nMark Carney:\nDrops in the Melian Dialoge as step one. Firstly, he states that the world order is no longer based entirely on a rules based order. In order to protect sovreighnty countries like Canada must diversify their partnerships.\n\nMelian Dialogue\nThucydides’ account of Peloponnesian War. “Right as the world goes, is only in question beteween equals in power, while the strong do what they can and the weak suffer what they must.”\nSoft Power: Can be seen as the global image of a country in terms of a positive or negative view. Japan is ranked high in soft power because of the positive image they have.\n\nWhen a country is very dependant can create a weaker country or reduce bargaining power."
   }
 ]
