@@ -1,0 +1,34 @@
+---
+title: "Lecture 9-14-2026"
+---
+
+# Previous Lecutre
+
+Democracies are not inherently more peacful towards autocracies. 
+
+Democracies tend to be more peaceful towards other democracies. However, democracies are as likely as autocracies to initate interstate conflicts. 
+
+Diatic Democratic Peace: Democracies are more peacful to eachother but just as violent as other political systems when not dealing with other democracies. 
+
+## Normative Reasosn for Diatic Democratic Peace
+
+Democratic norms tend to have less human rights violations, and they tend to be lesser in severity when compared to autocracy. Autocracies are more likely to use violence to resolve domestic disputes. 
+
+**Key Assumptions***
+
+- Externalization: 
+
+- Institutionalization: Selectorate Theory - The fundamental difference between autocratic and democractic societies is the size of winning coalition. When multiple people have a say in domestic politics are called the selectorate. The support of the selectorate for a leader is not necessary for their political survival, for example you want people to support your party when you exit office so they will elect your party. The same applies to autocracies, in fact it's more severe there because their literal survival is on the line if they lose power. 
+    - In order for leaders to accomplish their survival they must understand whose support is necessary for survival. Support of the entire selectorate tends to not be neccesary, the members whose support is necessary for the survival of the leader is considered the "winning coalition". For example in an autocracy this "winning coalition" might be just the military leadership, etc. 
+    - In a democracy the winning coalition tends to be much larger than that of the winning coalition in an autocracy. In a democractic society the winning coalition tends to be broad public support.
+    - Autocratic leaders tend to use *private goods* to entice military leadership to support their regime. Private goods are like *patronage* goods, they are given only to a small group of peoples. 
+    - In democratic societies, leaders tend to win broad public support (or support of their winning coalition) via the provision to the general public of *public goods*. Public goods tend to be more effecient at capturing winning coalition than private goods because it can grab larger support than the scarce private goods. 
+    - **Assumption** War Outcomes are a public good. Meaning a democratic leader must win active wars in order to survive as a leader. Therefore, democratic leaders tend to be very cautious in selecting when to engage in wars, and when they do engage in war they tend to select easier opponents to ensure positive outcomes in wartime. In autocracies, leaders have a lesser incentive to see positive outcomes in wars and therefore autocracies tend to have more wreckless foreign policy. 
+        - However this outcome could be argued to be wrong because in a democratic society the outcome of a war tends not to benefit the totality of the winning coalition, instead it behaves more like a private good because it benefits a select few while still imposing costs on the broad public.
+
+- Constraints Persepective: Regardless of regime type, many people do not want to pay the huge cost of war. Democratic leaders have to pay more attention to public support/aversion to any given conflict. This plays heavily into their decision to decide to fight a war or not. 
+
+- Democracies are more transparent than autocracies. Information is more freely available in democracies. Economic data published by China is less trusworthy. War and conflict is more likely when there is large uncertainty. When democracies are in crisis there tends to be less uncertainty, which means less conflict. Democracies have more informational advantages which means they are more certain and therefore much less likely to engage in conflict. When democracies make threats therefore, they tend to be more credible. When democratic leaders make a public announcement or a threat, it is politically costly, this is called **audience talk**, because the threat ties to democratic leaders hands with his winning coalition, the democratic leaders more likely to follow through because he will pay a much higher political cost. If the democratic leader doesn't follow through he pays a high **audience cost**.
+- Democratic citizens do not want to fight against other democracies. Democratic public opinion has a strong sway on democratic leaders to prevent war against other democracies.
+
+- Socialization: If you are brought up in a system where it is not normal to use force or violence against opposition, you will tend not to use, the same could be inversely said about those raised under autocratic systems. This explanations shortcoming is that it points more to a monotonic democratic peace, but this peace lacks empirical evidence. 

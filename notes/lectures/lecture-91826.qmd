@@ -1,0 +1,62 @@
+---
+title: "Lecture 9-18-2026"
+---
+
+# 3 Pillars of Peace / 3 Pillars of Liberal Peace
+
+1. Democracy
+2. Ecnonomic Interdependance 
+3. International Institutions 
+
+Neoliberal institutionalists focus more on the roles of International Institutions in their effectiveness in guarding peace amongst liberal societies. 
+They believe that because International Institutions reduce uncertainty, and because uncertainty increases the probability of conflict, the reduction causes by International Institutions is more effective therefore at keeping the peace. 
+
+International Institutions also reduce transactions costs. So during crisis negotiations because two states have experience negotiating through the international institutions negotiations tend to go smoother. International Institutions can also hold states accountable by providing punitive restrictions. International Institutions can also provide dispute resolution, for example arbitration through the WTO for countries that have trade conflict. 
+
+## Economic Interdependence 
+
+### Captialist Peace 
+
+Slightly different version of Liberal Peace. When countries have financial independence they tend to remain peaceful with eachother. 
+
+The more trade between states the more peaceful those states tend to be with eachother. 
+
+Tying Hands and Sunk Cost mechanism:
+
+If you tie your hands and make your threat credible. If I have spent too much money (sunk cost) and my hands are tied my threat is much more credible. 
+
+When a country is much more dependent on one country then when the less dependent country makes a threat it can be viewed as credible. This will lead to a higher probability of a negotiated peace or policy change. 
+
+However, the empirical finding of this situation is mixed. 
+
+### Trade Conflict & Peace
+
+Trade reduces conflict is the hypothesus, however, there is not an empirical finding that clearly backs that idea. 
+
+First, how do you measure trade dependence?
+- Weak Link Measure:
+    Between State 1 and State 2, given the total trade volume between the two states divided by GDP for both countries:
+
+    $$
+    \frac{\text{Total Trade Volume}}{\text{GDP}_1} \lt \frac{\text{Total Trade Volume}}{\text{GDP}_2}
+    $$
+
+    Therefore, State 1 is the weak link because less of it's GDP comes with the trade from State 1. While State 1 may have more resources to fight, it can avoid conflict by just trading which makes it less likely to initiate conflict. 
+
+- Salience Symmetry:
+    When neither state is particularly dependent or both are equally dependent conflict is less likely overall. 
+
+- Endogeneity:
+Since we cannot clearly say that trade prevents or causes conflict and vice versa, Endogenity argues that with a high probability of conflict trade will reduce. Because both trade and coflict have a negative correlation with eachother, reduced trade as a result of conlfict is a side effect of conflict not a cause of it. 
+
+What instruments are good predictors of trade? These are Endogenous factors, they do not cause or are not caused by conflict but because of these factors the level of trade is predicted. So therefore, trade doesn't predict war but the endogenous (indepdent factors) that affect trade are said to be the cause or prevention of conflict. 
+
+Endogoeous means from within, so factors from within a country that affect it's willingness to trade with another country or have a conflict. 
+
+- Trade doens't necessarily prevent war
+
+Opium War, War of 1812. These wars were caused directly BY trade. When the trade is unfair or unbalanceed, the country that is disadvantaged may not be willing to continue the relationship. The weaker side may be more willing to dirupt the relationship with conflict. A stronger power may try to control a weaker country via economic coercion (sanctions). 
+
+So by this logic there is correlation between trade and peace is just as strong between trade and conflict. 
+
+
