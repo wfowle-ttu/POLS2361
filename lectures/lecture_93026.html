@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lecture 9-18-2026 – notes</title>
+<title>Lecture 9-30-2026 – notes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -119,13 +148,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#pillars-of-peace-3-pillars-of-liberal-peace" id="toc-pillars-of-peace-3-pillars-of-liberal-peace" class="nav-link active" data-scroll-target="#pillars-of-peace-3-pillars-of-liberal-peace">3 Pillars of Peace / 3 Pillars of Liberal Peace</a>
+  <li><a href="#rationalist-explanations-for-war" id="toc-rationalist-explanations-for-war" class="nav-link active" data-scroll-target="#rationalist-explanations-for-war">Rationalist Explanations For War</a>
   <ul class="collapse">
-  <li><a href="#economic-interdependence" id="toc-economic-interdependence" class="nav-link" data-scroll-target="#economic-interdependence">Economic Interdependence</a>
-  <ul class="collapse">
-  <li><a href="#captialist-peace" id="toc-captialist-peace" class="nav-link" data-scroll-target="#captialist-peace">Captialist Peace</a></li>
-  <li><a href="#trade-conflict-peace" id="toc-trade-conflict-peace" class="nav-link" data-scroll-target="#trade-conflict-peace">Trade Conflict &amp; Peace</a></li>
-  </ul></li>
+  <li><a href="#example-of-the-explanation" id="toc-example-of-the-explanation" class="nav-link" data-scroll-target="#example-of-the-explanation">Example of The Explanation</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -135,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lecture 9-18-2026</h1>
+<h1 class="title">Lecture 9-30-2026</h1>
 </div>
 
 
@@ -152,49 +177,51 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pillars-of-peace-3-pillars-of-liberal-peace" class="level1">
-<h1>3 Pillars of Peace / 3 Pillars of Liberal Peace</h1>
+<section id="rationalist-explanations-for-war" class="level1">
+<h1>Rationalist Explanations For War</h1>
+<p>Wars are said to occur because of</p>
+<p><strong>Issues of War:</strong></p>
+<ul>
+<li>Religion</li>
+<li>Ideology</li>
+<li>Economic</li>
+<li>Trade Imbalance</li>
+<li>Territorial</li>
+<li>Historical Animosity</li>
+</ul>
+<p>Issues of War are not the same as the reasons a state might go to war. Not all states with a trade imbalance will go to war.</p>
+<p>Beyond Issues Based Approach to War there are a few other opinions as to why war occurs:</p>
 <ol type="1">
-<li>Democracy</li>
-<li>Ecnonomic Interdependance</li>
-<li>International Institutions</li>
+<li>Leaders are sometimes or always irrational and do not respect the cost of war.</li>
+<li>Leaders who order war enjoy the benefits of war but struggle to see the costs of war.</li>
+<li>Even rational leaders who consider the costs and risks of war may still end up fighting nonetheless</li>
 </ol>
-<p>Neoliberal institutionalists focus more on the roles of International Institutions in their effectiveness in guarding peace amongst liberal societies. They believe that because International Institutions reduce uncertainty, and because uncertainty increases the probability of conflict, the reduction causes by International Institutions is more effective therefore at keeping the peace.</p>
-<p>International Institutions also reduce transactions costs. So during crisis negotiations because two states have experience negotiating through the international institutions negotiations tend to go smoother. International Institutions can also hold states accountable by providing punitive restrictions. International Institutions can also provide dispute resolution, for example arbitration through the WTO for countries that have trade conflict.</p>
-<section id="economic-interdependence" class="level2">
-<h2 class="anchored" data-anchor-id="economic-interdependence">Economic Interdependence</h2>
-<section id="captialist-peace" class="level3">
-<h3 class="anchored" data-anchor-id="captialist-peace">Captialist Peace</h3>
-<p>Slightly different version of Liberal Peace. When countries have financial independence they tend to remain peaceful with eachother.</p>
-<p>The more trade between states the more peaceful those states tend to be with eachother.</p>
-<p>Tying Hands and Sunk Cost mechanism:</p>
-<p>If you tie your hands and make your threat credible. If I have spent too much money (sunk cost) and my hands are tied my threat is much more credible.</p>
-<p>When a country is much more dependent on one country then when the less dependent country makes a threat it can be viewed as credible. This will lead to a higher probability of a negotiated peace or policy change.</p>
-<p>However, the empirical finding of this situation is mixed.</p>
-</section>
-<section id="trade-conflict-peace" class="level3">
-<h3 class="anchored" data-anchor-id="trade-conflict-peace">Trade Conflict &amp; Peace</h3>
-<p>Trade reduces conflict is the hypothesus, however, there is not an empirical finding that clearly backs that idea.</p>
-<p>First, how do you measure trade dependence? - Weak Link Measure: Between State 1 and State 2, given the total trade volume between the two states divided by GDP for both countries:</p>
-<pre><code>$$
-\frac{\text{Total Trade Volume}}{\text{GDP}_1} \lt \frac{\text{Total Trade Volume}}{\text{GDP}_2}
-$$
-
-Therefore, State 1 is the weak link because less of it's GDP comes with the trade from State 1. While State 1 may have more resources to fight, it can avoid conflict by just trading which makes it less likely to initiate conflict. </code></pre>
-<ul>
-<li><p>Salience Symmetry: When neither state is particularly dependent or both are equally dependent conflict is less likely overall.</p></li>
-<li><p>Endogeneity: Since we cannot clearly say that trade prevents or causes conflict and vice versa, Endogenity argues that with a high probability of conflict trade will reduce. Because both trade and coflict have a negative correlation with eachother, reduced trade as a result of conlfict is a side effect of conflict not a cause of it.</p></li>
-</ul>
-<p>What instruments are good predictors of trade? These are Endogenous factors, they do not cause or are not caused by conflict but because of these factors the level of trade is predicted. So therefore, trade doesn’t predict war but the endogenous (indepdent factors) that affect trade are said to be the cause or prevention of conflict.</p>
-<p>Endogoeous means from within, so factors from within a country that affect it’s willingness to trade with another country or have a conflict.</p>
-<ul>
-<li>Trade doens’t necessarily prevent war</li>
-</ul>
-<p>Opium War, War of 1812. These wars were caused directly BY trade. When the trade is unfair or unbalanceed, the country that is disadvantaged may not be willing to continue the relationship. The weaker side may be more willing to dirupt the relationship with conflict. A stronger power may try to control a weaker country via economic coercion (sanctions).</p>
-<p>So by this logic there is correlation between trade and peace is just as strong between trade and conflict.</p>
+<p>These are the 3 common arguments as to why leaders choose to war. The reason as to why leaders choose to go to war is called the <strong>The War Puzzle</strong>.</p>
+<p>The third reason is called the <strong>Rationalist Explanation of War </strong></p>
+<section id="example-of-the-explanation" class="level2">
+<h2 class="anchored" data-anchor-id="example-of-the-explanation">Example of The Explanation</h2>
+<p>Consider two countries who have a territorial dispute. In their crisis bargaining, country A and country B are attempting to negotion the division of the territory. The two countries are bargaining over the division of the disputed territory.</p>
+<p>Rationalists assume: * States are rational actors * States do cost and benefit analysis * States are risk neutral or risk adverse * States can calculate their payoff and they know what kind of strategies are available to them</p>
+<p>State A is considered the challenger and State B is the occupier of the disputed territory. State A demands 20% of the territory and threatens State B for that.</p>
+<p>State B must consider whether to accept or reject the demand.</p>
+<p>State A could maintain the status quo, or it could make the threat with the demand that State B give up X (20% control of the disputed territory).</p>
+<p>If State B agrees with State A’s demand both countries can reach an agreement.</p>
+<p>Considering, the agreement, Country A’s payoff would be the territory gained via the negotiation.</p>
+<p>Country A’s payoff in such a scenario is X And Country B 1-X</p>
+<p>Utility Value for both States</p>
+<p>$$ V_a(war) = P(1)+(1-P)(0)- C_A = P - C_A V_b(war) = (1-P)(1)+P(0)-C_B = 1-P-C_B </p>
+<p> = P = 1-P </p>
+<p>C_A C_B $$</p>
+<p>The Cost of War is always Postive</p>
+<p><span class="math display">\[
+0 \lt C_A
+0 \lt C_B
+\]</span></p>
+<p>Bargaining Range Surplus is Said to Equal C_A + C_B</p>
+<p>The total cost of war is the total amount of resources that both states must give up in order to go to war. If both states reach a negotiated settlement it’s always better for both countries.</p>
+<p>In other terms states should be able to rationally understand their circumstances and with regards to the cost of war both states should be implored to reach a negotiated settlement.</p>
 
 
-</section>
 </section>
 </section>
 

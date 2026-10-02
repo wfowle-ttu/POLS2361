@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lecture 9-18-2026 – notes</title>
+<title>Lecture 10-2-2026 – notes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -114,28 +143,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#pillars-of-peace-3-pillars-of-liberal-peace" id="toc-pillars-of-peace-3-pillars-of-liberal-peace" class="nav-link active" data-scroll-target="#pillars-of-peace-3-pillars-of-liberal-peace">3 Pillars of Peace / 3 Pillars of Liberal Peace</a>
-  <ul class="collapse">
-  <li><a href="#economic-interdependence" id="toc-economic-interdependence" class="nav-link" data-scroll-target="#economic-interdependence">Economic Interdependence</a>
-  <ul class="collapse">
-  <li><a href="#captialist-peace" id="toc-captialist-peace" class="nav-link" data-scroll-target="#captialist-peace">Captialist Peace</a></li>
-  <li><a href="#trade-conflict-peace" id="toc-trade-conflict-peace" class="nav-link" data-scroll-target="#trade-conflict-peace">Trade Conflict &amp; Peace</a></li>
-  </ul></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lecture 9-18-2026</h1>
+<h1 class="title">Lecture 10-2-2026</h1>
 </div>
 
 
@@ -152,51 +168,81 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pillars-of-peace-3-pillars-of-liberal-peace" class="level1">
-<h1>3 Pillars of Peace / 3 Pillars of Liberal Peace</h1>
+<p>War Bargaining and Rational Actors</p>
+<p>War Puzzle Framework</p>
 <ol type="1">
-<li>Democracy</li>
-<li>Ecnonomic Interdependance</li>
-<li>International Institutions</li>
+<li>States are rational actors
+<ul>
+<li>They can calculate their payoffs from conflict versus other players payoffs.</li>
+<li>These actors can make cost benefit calculations and they assume their opponents can as well.</li>
+<li>States however, still show irrational behavior.</li>
+</ul></li>
 </ol>
-<p>Neoliberal institutionalists focus more on the roles of International Institutions in their effectiveness in guarding peace amongst liberal societies. They believe that because International Institutions reduce uncertainty, and because uncertainty increases the probability of conflict, the reduction causes by International Institutions is more effective therefore at keeping the peace.</p>
-<p>International Institutions also reduce transactions costs. So during crisis negotiations because two states have experience negotiating through the international institutions negotiations tend to go smoother. International Institutions can also hold states accountable by providing punitive restrictions. International Institutions can also provide dispute resolution, for example arbitration through the WTO for countries that have trade conflict.</p>
-<section id="economic-interdependence" class="level2">
-<h2 class="anchored" data-anchor-id="economic-interdependence">Economic Interdependence</h2>
-<section id="captialist-peace" class="level3">
-<h3 class="anchored" data-anchor-id="captialist-peace">Captialist Peace</h3>
-<p>Slightly different version of Liberal Peace. When countries have financial independence they tend to remain peaceful with eachother.</p>
-<p>The more trade between states the more peaceful those states tend to be with eachother.</p>
-<p>Tying Hands and Sunk Cost mechanism:</p>
-<p>If you tie your hands and make your threat credible. If I have spent too much money (sunk cost) and my hands are tied my threat is much more credible.</p>
-<p>When a country is much more dependent on one country then when the less dependent country makes a threat it can be viewed as credible. This will lead to a higher probability of a negotiated peace or policy change.</p>
-<p>However, the empirical finding of this situation is mixed.</p>
-</section>
-<section id="trade-conflict-peace" class="level3">
-<h3 class="anchored" data-anchor-id="trade-conflict-peace">Trade Conflict &amp; Peace</h3>
-<p>Trade reduces conflict is the hypothesus, however, there is not an empirical finding that clearly backs that idea.</p>
-<p>First, how do you measure trade dependence? - Weak Link Measure: Between State 1 and State 2, given the total trade volume between the two states divided by GDP for both countries:</p>
-<pre><code>$$
-\frac{\text{Total Trade Volume}}{\text{GDP}_1} \lt \frac{\text{Total Trade Volume}}{\text{GDP}_2}
-$$
-
-Therefore, State 1 is the weak link because less of it's GDP comes with the trade from State 1. While State 1 may have more resources to fight, it can avoid conflict by just trading which makes it less likely to initiate conflict. </code></pre>
+<p>Let’s assume that all actors are rational, with some bound of rationality. Sometimes leaders choose to be irrational.</p>
+<p>For example, Nixon’s mad man theory, he believed that if he dealt with the Soviet’s as a mad man it would benefit the US.</p>
+<ol start="2" type="1">
+<li>States are unitary actors.
 <ul>
-<li><p>Salience Symmetry: When neither state is particularly dependent or both are equally dependent conflict is less likely overall.</p></li>
-<li><p>Endogeneity: Since we cannot clearly say that trade prevents or causes conflict and vice versa, Endogenity argues that with a high probability of conflict trade will reduce. Because both trade and coflict have a negative correlation with eachother, reduced trade as a result of conlfict is a side effect of conflict not a cause of it.</p></li>
-</ul>
-<p>What instruments are good predictors of trade? These are Endogenous factors, they do not cause or are not caused by conflict but because of these factors the level of trade is predicted. So therefore, trade doesn’t predict war but the endogenous (indepdent factors) that affect trade are said to be the cause or prevention of conflict.</p>
-<p>Endogoeous means from within, so factors from within a country that affect it’s willingness to trade with another country or have a conflict.</p>
+<li>States are black boxes</li>
+<li>In a state there are many actors that can influence foreign policy and decision making.</li>
+<li>In this concept however, the state is treated as a singluar actor.</li>
+</ul></li>
+<li>Issues are subject to bargaining
 <ul>
-<li>Trade doens’t necessarily prevent war</li>
-</ul>
-<p>Opium War, War of 1812. These wars were caused directly BY trade. When the trade is unfair or unbalanceed, the country that is disadvantaged may not be willing to continue the relationship. The weaker side may be more willing to dirupt the relationship with conflict. A stronger power may try to control a weaker country via economic coercion (sanctions).</p>
-<p>So by this logic there is correlation between trade and peace is just as strong between trade and conflict.</p>
+<li>Issues are assumed to be divisible, meaning that both sides can share in a positive outcome</li>
+<li>Wars of survival challenge this assumption, as a war where one side fights for it’s survival has no positive outcome without complete victory for the surviving side.</li>
+</ul></li>
+<li>Each State is assumed to have complete information.</li>
+</ol>
+<p>We assume that war is inefficient and costly. If there is some war over a good, that war will destroy the value of that good. There is some bargaining range in which there exists some settlement outcome that doesn’t require war. If that settlement exists then why do states go to war?</p>
+<p>States A and B are unitary rational actors. They are in dispute over some territory whose value we normalize to 1.</p>
+<p>The value of that territory is being bargained.</p>
+<p>State A own no portion of the territory and State B is the de-factor occupier.</p>
+<p>In the status quo State A’s payoff is 0, and State B’s payoff is 1.</p>
+<p>If State A’s demand is for 20% of the territory. For State B that threat is not negligible.</p>
+<hr>
+<p>State A demands <span class="math inline">\(x\)</span>. Country B therefore has two options</p>
+<ol type="1">
+<li>Accept A’s demand</li>
+<li>Reject A’s demand</li>
+</ol>
+<p>Under option 1.</p>
+<p>State A’s payoff in such a scenario is 0.4 State B’s payoff is 0.6 or 60% of the territory.</p>
+<p>Under option 2</p>
+<p>The two states are assumed to go to war.</p>
+<p>Country A gets a war payout and Country B get it’s war payout <span class="math inline">\(W_A\)</span> and <span class="math inline">\(W_B\)</span> respectively.</p>
+<p>Assume Country A has a 60% chance of winning.</p>
+<p><span class="math inline">\(Pr_A\text{win} = 0.6\)</span> <span class="math inline">\(Pr_A\text{lose} = 0.4\)</span></p>
+<p>And Country B’s probability of winning and losing</p>
+<p><span class="math inline">\(Pr_B\text{win} = 0.4\)</span> <span class="math inline">\(Pr_B\text{lose} = 0.6\)</span></p>
+<p>The Cost of war for the two countries is not zero.</p>
+<p>$W_A = P_A - (1-P) (0) - C_A $</p>
+<p>Which simplifies to</p>
+<p><span class="math inline">\(W_A = P - C_A\)</span></p>
+<p>For State B:</p>
+<p><span class="math inline">\(W_B = (1-1) + P(0) - C_B\)</span></p>
+<p>Simplified to</p>
+<p><span class="math inline">\(W_B = 1-P-C_B\)</span></p>
+<p>Therefore the potential war payout for either state is:</p>
+<p>For State A:</p>
+<p><span class="math inline">\(W_Z = P - C_A\)</span></p>
+<p>And for State B:</p>
+<p><span class="math inline">\(W_B = 1-P-C_B\)</span></p>
+<p>Regardless</p>
+<p><span class="math inline">\(1 - C_A - C_B \lt 1\)</span></p>
+<p>If both states go to war neither state regardless of outcome can capture the full value of the good being bargained over. Therefore the difference in value based on the outcome of the war is considered the <strong>bargaining range or bargaining surplus</strong></p>
+<p>We can calculate the bargaining surplus with:</p>
+<p><span class="math inline">\(C_A + C_B\)</span></p>
+<p>The main idea is that any agreement within this bargaining range is better than war.</p>
+<p>Any settlement where the value of the outcome lands in the surplus from both sides means that either side benefits as the cost of war or the payoff in the event of war is less than the settlement inside the bargaining suprplus.</p>
+<hr>
+<p>This logic is not universally true. Given the reservation prices of both sides, the bargaining the surplus the division of the difference in the reservation suprplus of both sides amongst them.</p>
+<p>Negotiation can be exhausting and time consuming, so the coordination within the bargaining range may not always succeed in preventing war.</p>
+<p>Countries payoffs from a solution within a bargaining surplus may decrease over time.</p>
+<p>If the process of negotion becomes costly for either side their reservation price may slide and therefore it maybe more likely to accept a lesser outcome.</p>
+<p>Ergo the side that is more patient is more likely to come up with a better outcome.</p>
 
 
-</section>
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
