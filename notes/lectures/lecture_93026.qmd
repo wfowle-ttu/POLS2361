@@ -1,0 +1,79 @@
+---
+title: "Lecture 9-30-2026"
+---
+
+# Rationalist Explanations For War
+
+Wars are said to occur because of 
+
+**Issues of War:**
+
+- Religion 
+- Ideology 
+- Economic 
+- Trade Imbalance
+- Territorial 
+- Historical Animosity 
+
+Issues of War are not the same as the reasons a state might go to war. Not all states with a trade imbalance will go to war. 
+
+Beyond Issues Based Approach to War there are a few other opinions as to why war occurs:
+
+1. Leaders are sometimes or always irrational and do not respect the cost of war.
+2. Leaders who order war enjoy the benefits of war but struggle to see the costs of war. 
+3. Even rational leaders who consider the costs and risks of war may still end up fighting nonetheless 
+
+These are the 3 common arguments as to why leaders choose to war. The reason as to why leaders choose to go to war is called the **The War Puzzle**. 
+
+The third reason is called the **Rationalist Explanation of War **
+
+## Example of The Explanation
+
+Consider two countries who have a territorial dispute. In their crisis bargaining, country A and country B are attempting to negotion the division of the territory. The two countries are bargaining over the division of the disputed territory. 
+
+Rationalists assume:
+* States are rational actors 
+* States do cost and benefit analysis 
+* States are risk neutral or risk adverse 
+* States can calculate their payoff and they know what kind of strategies are available to them
+
+State A is considered the challenger and State B is the occupier of the disputed territory. State A demands 20% of the territory and threatens State B for that. 
+
+State B must consider whether to accept or reject the demand. 
+
+State A could maintain the status quo, or it could make the threat with the demand that State B give up X (20% control of the disputed territory).
+
+If State B agrees with State A's demand both countries can reach an agreement. 
+
+Considering, the agreement, Country A's payoff would be the territory gained via the negotiation. 
+
+Country A's payoff in such a scenario is X 
+And Country B 1-X
+
+Utility Value for both States 
+
+$$
+V_a(war) =  P(1)+(1-P)(0)- C_A = P - C_A \newline
+V_b(war) = (1-P)(1)+P(0)-C_B = 1-P-C_B \newline
+
+\text{Prob (A Wins)} = P \newline
+\text {Prob (B Wins)} = 1-P \newline
+
+C_A \space \text{Cost of War to State A} \newline
+C_B \space \text{Cost of War to STate A} \newline
+$$
+
+The Cost of War is always Postive 
+
+$$
+0 \lt C_A 
+0 \lt C_B
+$$
+
+Bargaining Range Surplus is Said to Equal C_A + C_B 
+
+The total cost of war is the total amount of resources that both states must give up in order to go to war. If both states reach a negotiated settlement it's always better for both countries. 
+
+In other terms states should be able to rationally understand their circumstances and with regards to the cost of war both states should be implored to reach a negotiated settlement. 
+
+

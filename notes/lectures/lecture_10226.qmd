@@ -1,0 +1,126 @@
+---
+title: "Lecture 10-2-2026"
+---
+
+War Bargaining and Rational Actors
+
+War Puzzle Framework
+
+1. States are rational actors 
+    - They can calculate their payoffs from conflict versus other players payoffs. 
+    - These actors can make cost benefit calculations and they assume their opponents can as well. 
+    - States however, still show irrational behavior. 
+
+Let's assume that all actors are rational, with some bound of rationality. Sometimes leaders choose to be irrational. 
+
+For example, Nixon's mad man theory, he believed that if he dealt with the Soviet's as a mad man it would benefit the US. 
+
+2. States are unitary actors. 
+    - States are black boxes
+    - In a state there are many actors that can influence foreign policy and decision making. 
+    - In this concept however, the state is treated as a singluar actor. 
+
+3. Issues are subject to bargaining
+    - Issues are assumed to be divisible, meaning that both sides can share in a positive outcome 
+    - Wars of survival challenge this assumption, as a war where one side fights for it's survival has no positive outcome without complete victory for the surviving side. 
+
+4. Each State is assumed to have complete information. 
+
+We assume that war is inefficient and costly. If there is some war over a good, that war will destroy the value of that good. There is some bargaining range in which there exists some settlement outcome that doesn't require war. If that settlement exists then why do states go to war?
+
+States A and B are unitary rational actors. They are in dispute over some territory whose value we normalize to 1. 
+
+The value of that territory is being bargained. 
+
+State A own no portion of the territory and State B is the de-factor occupier. 
+
+In the status quo State A's payoff is 0, and State B's payoff is 1. 
+
+If State A's demand is for 20% of the territory. For State B that threat is not negligible. 
+
+---
+
+State A demands $x$. Country B therefore has two options 
+
+1. Accept A's demand 
+2. Reject A's demand
+
+Under option 1. 
+
+State A's payoff in such a scenario is 0.4 
+State B's payoff is 0.6 or 60% of the territory. 
+
+Under option 2 
+
+The two states are assumed to go to war.
+
+Country A gets a war payout and Country B get it's war payout $W_A$ and $W_B$ respectively. 
+
+Assume Country A has a 60% chance of winning. 
+
+$Pr_A\text{win} = 0.6$ 
+$Pr_A\text{lose} = 0.4$ 
+
+And Country B's probability of winning and losing 
+
+$Pr_B\text{win} = 0.4$ 
+$Pr_B\text{lose} = 0.6$ 
+
+The Cost of war for the two countries is not zero. 
+
+
+$W_A = P_A \cdot 1 - (1-P) \cdot (0) - C_A $
+
+Which simplifies to 
+
+$W_A = P - C_A$
+
+For State B:
+
+$W_B = (1-1) + P(0) - C_B$ 
+ 
+Simplified to
+
+$W_B = 1-P-C_B$ 
+
+
+
+Therefore the potential war payout for either state is:
+
+For State A:
+
+$W_Z = P - C_A$ 
+
+And for State B: 
+
+$W_B = 1-P-C_B$ 
+
+Regardless 
+
+$1 - C_A - C_B \lt 1$ 
+
+If both states go to war neither state regardless of outcome can capture the full value of the good being bargained over. Therefore the difference in value based on the outcome of the war is considered the **bargaining range or bargaining surplus**
+
+
+We can calculate the bargaining surplus with:
+
+$C_A + C_B$ 
+
+The main idea is that any agreement within this bargaining range is better than war. 
+
+Any settlement where the value of the outcome lands in the surplus from both sides means that either side benefits as the cost of war or the payoff in the event of war is less than the settlement inside the bargaining suprplus. 
+
+---
+
+This logic is not universally true. Given the reservation prices of both sides, the bargaining the surplus the division of the difference in the reservation suprplus of both sides amongst them. 
+
+Negotiation can be exhausting and time consuming, so the coordination within the bargaining range may not always succeed in preventing war. 
+
+Countries payoffs from a solution within a bargaining surplus may decrease over time. 
+
+If the process of negotion becomes costly for either side their reservation price may slide and therefore it maybe more likely to accept a lesser outcome. 
+
+Ergo the side that is more patient is more likely to come up with a better outcome. 
+
+
+
