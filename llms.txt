@@ -1,0 +1,22 @@
+# POLS2306 Notes
+
+## Pages
+
+- [About](https://wfowle-ttu.github.io/POLS2361/about.llms.md)
+- [lecture 9-23-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_92326.llms.md)
+- [Lecture 8-31-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_83126.llms.md)
+- [Lecture 9-21-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_92126.llms.md)
+- [Lecture 9-2-26](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_9226.llms.md)
+- [Lecture 8-28-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture-82826.llms.md)
+- [Lecture 10-2-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_10226.llms.md)
+- [Lecture 9-9-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_9926.llms.md)
+- [Lecture 10-12-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_101226.llms.md)
+- [Lecture 9-18-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture-91826.llms.md)
+- [Lecture 10-7-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_10726.llms.md)
+- [Lecture 9-30-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_93026.llms.md)
+- [Lecture 10-5-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_10526.llms.md)
+- [Lecture 9-14-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_91426.llms.md)
+- [Lecture 9-16-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_91626.llms.md)
+- [Review 10-16-2026](https://wfowle-ttu.github.io/POLS2361/lectures/review_101626.llms.md)
+- [Lecture 10-9-2026](https://wfowle-ttu.github.io/POLS2361/lectures/lecture_10926.llms.md)
+- [notes](https://wfowle-ttu.github.io/POLS2361/index.llms.md)
