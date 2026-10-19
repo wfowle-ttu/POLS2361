@@ -1,0 +1,122 @@
+---
+title: "Review 10-16-2026"
+---
+
+# War Puzzle Theory
+
+## Bargaining is Always Preferred Over War
+
+We make 4 key assumptions:
+
+1.  States are rational actors
+2.  States are modeled as unitary actors
+3.  We assume the issue is always somewhat divisible
+4.  Each side has complete info
+
+We assume that any agreement inside the bargaining range is more beneficial to both sides than an outcome achieved through war.
+
+Let the disputed good be normalized to 1. A wins the war with probability
+$P_A$, and B wins with probability $P_B = 1 - P_A$.
+
+Fighting costs each side something, $C_A > 0$ and $C_B > 0$. These costs
+are paid whether the side wins or loses.
+
+Each side's expected payoff from war is therefore
+
+$$W_A = P_A(1) + (1 - P_A)(0) - C_A = P_A - C_A$$
+$$W_B = P_B(1) + (1 - P_B)(0) - C_B = 1 - P_A - C_B$$
+
+For example, if $P_A = 0.4$ and $C_A = 0.1$, then
+$W_A = 0.4(1) + 0.6(0) - 0.1 = 0.3$.
+
+Because $W_A + W_B = 1 - C_A - C_B < 1$, war destroys value. The bargaining
+range runs from $P_A - C_A$ to $P_A + C_B$, and its width is $C_A + C_B$.
+
+Therefore, each side is incentivized to find a settlement that falls within the bargaining range, as value gained for each side there is greater than any payoff attained through war. 
+
+---
+
+## Preemptive War and Preventitive War
+
+### Preemptive War 
+
+This type of war occurs when another country believes another country will attack it regardless of negotiations. In such a case the country that believes it will be attacked has an incentive to strike the other country first to gain a 'first-mover' advantage. 
+
+### Preventitive War
+
+When two countries have a power imbalance, when one country is becoming stronger than another rival state. That state may have an incentive to attack the country who is becoming stronger as a fight now is better than a fight when that rival state is inevtiably stronger. 
+
+
+
+---
+
+# Diversionary War 
+
+The theory basically states that leaders have an incentive to start conflicts when they are unpopular domestically. This theory is based on several mechanisms:
+
+1. In-Out-Group 
+    - In a war, people tend to rally together against external threats. 
+    - People are more willing to support a concentration of power for their protection
+
+2. Rally effect
+    - People tend to rally around existing leaders when there is a real external threat.
+    - These effects tend to be small and short lived. 
+    - Some people argue against this idea as many people are not easily fooled into rallying behind a leader that has an incentive to start a fight. 
+
+3.  Scapegoat 
+    - Domestic problems can be blamed on foreign adversaries to hide a leaders' domestic shortcomings. 
+
+4. Gambling For Resurrection
+    - When an election is near and that leader is unlikely to win, a leader is incentivized to gamble with starting conflict to try to gain popularity. 
+
+
+Diversionary motives are strongest before an upcoming election but most wars tend to be started early on during a leaders term during what is deemed the 'honeymoon period'. If the diversionary theory were true then war should be more likely in the lead up to an election not early during a leaders' term. 
+
+## Constraints Perspective 
+
+Domestic disapproval typically also prevents leaders from starting new conflicts. This is considered the *constraints perspective*. During domestic disuputes leaders must focus on domestic problems meaning they have less support to pursue agressive foreign policy. 
+
+
+
+---
+
+# Problems With Diversionary Theory
+
+It's very difficult to empirically measure a leader's motives. Therefore it's impossible to prove the diversionary theory. Studies can only show some correlation between outcomes but there can be no empricial link between the two. 
+
+## Democratic Threats are More Credible than Autocratic Threats 
+
+## Tying Hands 
+
+When a democratic leader makes a threat and backs down, they will pay a much higher audience cost than an autocratic leader who does the same thing. 
+
+Therefore, when a leader of a democractic country makes a threat, it is typically much more credible because the cost of that threat is potentially much higher for a democratic leader. 
+
+---
+
+# Two Level Games (Putnam)
+
+## Levels
+
+The internation agreement/bargaining stage.
+
+Leaders determine what agreements are possible at this stage. Leaders bring those possible agreements back to level II which is their domestic audience to see if ratification is possible. 
+
+## Win-Sets
+
+A set of agreements that both international leaders and their respective domestic audiences will ratify.
+
+Where both the international leaders agree and their domestic audiences would ratify those agreements, those are called domestic win-sets. 
+
+When a country has a large amount of win-sets they are said to have less leverage in negotiations as the other country may understand that they will have space to make concessions. 
+
+Likewise a state with a small win-set, they are more likely to negotiate without making much concessions because there is a small amount of outcomes that their domestic audience will support. Therefore, that increases a leaders bargaining leverage. 
+
+---
+
+# Stategies Leaders Use To Increase Win-Set Size
+
+Leaders can pay their domestic audience with some side payments in order to make a win-set more acceptable to their domestic audience. Like giving tax breaks to a car industry that will be negatively impacted by a trade agreement. 
+
+
+
