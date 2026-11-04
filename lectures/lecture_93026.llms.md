@@ -53,7 +53,8 @@ C_A C_B \$\$
 
 The Cost of War is always Postive
 
-\\ 0 \lt C_A 0 \lt C_B \\
+$$0 \lt C_A
+0 \lt C_B$$
 
 Bargaining Range Surplus is Said to Equal C_A + C_B
 

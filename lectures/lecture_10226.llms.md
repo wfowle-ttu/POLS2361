@@ -36,7 +36,7 @@ If State A’s demand is for 20% of the territory. For State B that threat is no
 
 ------------------------------------------------------------------------
 
-State A demands \\x\\. Country B therefore has two options
+State A demands $x$. Country B therefore has two options
 
 1.  Accept A’s demand
 2.  Reject A’s demand
@@ -49,15 +49,15 @@ Under option 2
 
 The two states are assumed to go to war.
 
-Country A gets a war payout and Country B get it’s war payout \\W_A\\ and \\W_B\\ respectively.
+Country A gets a war payout and Country B get it’s war payout $W_A$ and $W_B$ respectively.
 
 Assume Country A has a 60% chance of winning.
 
-\\Pr_A\text{win} = 0.6\\ \\Pr_A\text{lose} = 0.4\\
+$Pr_A\text{win} = 0.6$ $Pr_A\text{lose} = 0.4$
 
 And Country B’s probability of winning and losing
 
-\\Pr_B\text{win} = 0.4\\ \\Pr_B\text{lose} = 0.6\\
+$Pr_B\text{win} = 0.4$ $Pr_B\text{lose} = 0.6$
 
 The Cost of war for the two countries is not zero.
 
@@ -65,35 +65,35 @@ The Cost of war for the two countries is not zero.
 
 Which simplifies to
 
-\\W_A = P - C_A\\
+$W_A = P - C_A$
 
 For State B:
 
-\\W_B = (1-1) + P(0) - C_B\\
+$W_B = (1-1) + P(0) - C_B$
 
 Simplified to
 
-\\W_B = 1-P-C_B\\
+$W_B = 1-P-C_B$
 
 Therefore the potential war payout for either state is:
 
 For State A:
 
-\\W_Z = P - C_A\\
+$W_Z = P - C_A$
 
 And for State B:
 
-\\W_B = 1-P-C_B\\
+$W_B = 1-P-C_B$
 
 Regardless
 
-\\1 - C_A - C_B \lt 1\\
+$1 - C_A - C_B \lt 1$
 
 If both states go to war neither state regardless of outcome can capture the full value of the good being bargained over. Therefore the difference in value based on the outcome of the war is considered the **bargaining range or bargaining surplus**
 
 We can calculate the bargaining surplus with:
 
-\\C_A + C_B\\
+$C_A + C_B$
 
 The main idea is that any agreement within this bargaining range is better than war.
 

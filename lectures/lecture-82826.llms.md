@@ -9,13 +9,13 @@
 
 > **NOTE:**
 >
-> When testing these hypotheses it’s important to find the variables for \\x\\ and \\y\\ where \\x\\ is commonly referred to as the independent variable or explanatory variable. Whereas \\y\\ is commonly referred to as the dependant variable, the outcome, or the response variable.
+> When testing these hypotheses it’s important to find the variables for $x$ and $y$ where $x$ is commonly referred to as the independent variable or explanatory variable. Whereas $y$ is commonly referred to as the dependant variable, the outcome, or the response variable.
 
 In our Hypotheses we have 3 variables:
 
 - Population age, military spending, and rivalry status.
 
-Another variable \\z\\ is considered our moderating variable (or condition), this reveals that the relationship between \\x\\ and \\y\\ differs based on the presence of \\z\\.
+Another variable $z$ is considered our moderating variable (or condition), this reveals that the relationship between $x$ and $y$ differs based on the presence of $z$.
 
 ### Operationaliztion
 

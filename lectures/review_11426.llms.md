@@ -1,0 +1,131 @@
+# Review 11-4-2026
+
+# Types of Aid
+
+Grants are one country or organization giving another money, this money does not have to be repaid.
+
+Loans:
+
+1.  Concessional Loans: Loans who terms are favorable (i.e. a lower interest rate)
+2.  Non-Concessional Loans: A loan whose terms are harsher, higher interest rates, shorter payback period. Often times associated with development financing.
+
+Foreign Aid is aimed at helping recipient countries to improve economic conditions and increase growth. Concessional Loans or Grants are usually used here.
+
+Non-conessional loans are considered foreign aid but they are more associated with financing rather than a beneficial foreign aid. This is what seperates US foreign aid from Chinese foreign aid.
+
+------------------------------------------------------------------------
+
+Most foreign aid provided by the US is grants, Chinese aid is mostly non-concessional loans.
+
+Humanitarian aid
+
+Military aid, technical aid, personnel assistance, are further types of aid, helping a country pay for their military.
+
+Conditional Aid: A type of aid that requires the recipient country to make some policy concessions. E.g. if you democraticze your electoral system we will provide you aid.
+
+Tied Aid: Another conditional aid type, this is foreign aid that is tied. You can get this aid however, you must purchase the goods for this project that are necessary for this project from companies in my country.
+
+Direct Cash Transfer: Donors or organizaiton provide recipients cash directly as a form of aid.
+
+------------------------------------------------------------------------
+
+# Reasons Why Aid is Often Ineffective
+
+1.  How do donors strategic incentives undermine aid effectiveness.
+
+Donor countries provide aid not just to help the recipeint country. When the goal is just economic growth aid tends to be more successful. However, when the aid’s goal is to achieve some return/goal in return aid tends to be less effective.
+
+When donors only care about policy concessions from the target they tend to not worry about how the aid is actually spent/used.
+
+This benefits dictators more often than not because dictators are more readily able to provide policy concessions in exchange for aid. The dictator has no reason therefore to actually use the aid to help his economy etc.
+
+2.  Aid can help undermine local industry
+
+Imagine a donor country providing a massive supply of wheat to help with a famine in a country. This is generally good as people get fed because of the aid. However, that recipient countries agricultural industry will likely collapse as the supply of wheat will drop prices and now that are not able to sell their produce at a profit.
+
+Consider also hospital education, local industries will become less competitive with low cost services and products that are provided by donors.
+
+**Dutch Disease**: A situation where a large influx of foreign captial (unearned income) foreign aid or resource revenue ends up decreasing the competitiveness of local industries that export goods.
+
+This additional capital creates an appreciation in local wages creating a situation where local industries cannot keep up with the increase in wages.
+
+The foreign capital should be exchanged to foreign currency creating a high demand for that currency. That reduction in supply of local currency. That appreciation in local currency creates a higher cost of production for local firms producing goods.
+
+3.  How does foreign aid influence local incentives for economic growth and development
+
+Recipent governments that receieve foreign aid money do not have to necessarily use that aid to encourage economic growth and development.
+
+They can instead use that aid for the benefit of the incumbent regime.
+
+In the case where the recipent country is a dictatorship, the government can use that aid to to survive and strengthen his regime rather than actually helping the local economy.
+
+The private parties that keep the regime in power are typically also benefitted as a result rather than the populace generally of the recipeint dictatorship.
+
+Corrupt economic structure will hinder economic growth. Recipient government has less incentive to go through difficult reforms to fix up corrupt economic conditions, instead they can just continue to receive more money.
+
+If recipient cotunry is more dependent on tax revenue then they are more accountable to their citizens and therefore they are more likely to use aid to benefit their economicy and by proxy their own tax revenue.
+
+------------------------------------------------------------------------
+
+A recipient country with a leader who has a long time horizon. Roving bandits are leaders with short time horizons. They want to extract rent as much as possible right now, even if the extraction destroys the economy. They want to extract as much rent as possible in a short time. When they receive foreign aid they just want to extract rents from that foreign aid.
+
+Leaders with long time horizons, they look far ahead into the future. These leaders have an incentive to promote the economic growth of their country and they implement an optimal tax rate. They tend to use aid more efficeiently to promote economic growth of their country.
+
+------------------------------------------------------------------------
+
+Donor countries provide aid in exchange for policy concessions. In recipient countries as long as they recieve money they are happy to give what the donor wants. This typically applies to countries with a small selectorate, the policy concession as a result of the exchange of aid. As long as the recipient country gets the concessions it’s looking for, the foreign aid is considered a policy exchange.
+
+Even though the target country cannot promote economic growth using the aid, the donor country is satisified as their goal is the policy concessions.
+
+------------------------------------------------------------------------
+
+# Sanctions
+
+Instruments of sanctions:
+
+Thes
+
+1.  Comprehensive - Broad restrictions across much of a countries econmoicy (both trade, financial sanctions, travel bans)
+2.  Targeted (Smart) sanctions - A narrow scope of sanctions, these attempt to prevent negagtive spill-overs from something like comprehensive sanctions which can hurt the citizenry of a target country. These targeted sanctions try to target specific companies or individuals directly attempting to affect people have more influence with the government.
+3.  Primary Sanctions - These involve limiting economic interactions with the sending countries business with the target business of the recipeitn countries. Consider the US ban on chips to China as a primary sanction. The entities that have to comply with sanctions are the senders countries companies.
+4.  Seoncdary Sanctions - The imposition of limits on economic trade on the target country.
+
+Depending on the instrument of sanctions:
+
+1.  Import Bans, Shipping Restritciton (Trade restrictions)
+2.  Banking cutoff, Debt Limits, Limits on Reserve Access. (Financial Sancitons)
+3.  Arms Embargos, Trade Restrictions (Economic Sanctions depending on the instruments).
+
+------------------------------------------------------------------------
+
+Target countries will often refuse to comply with demands despite high cost of sanctions.
+
+These economic costs tend to not always translate to political costs. The burden of sanctions tend to be on the citizenry of the recipient country. However, autocratic regimes tend to still be able to provide for their small private selectorate and remain in power.
+
+Target countries can still find ways to generate reveneues while under sanction especially when they trade inelastic goods. Alternative trading routes/partners for goods like oils still enables that country to generate revenue despite the ban from the sending country.
+
+This enables the leader of the recipent coutnry to survive as leader since he can still provide his private selectorte adequate private goods.
+
+------------------------------------------------------------------------
+
+If the senders demand is too large (politically) the target country can be willing to bear economic cost since the political demand might be to great.
+
+The target regime may be willing to bear the economic cost since otherwise the political cost is to high inversely.
+
+------------------------------------------------------------------------
+
+Sample Selection Bias: Sometimes the threat of sanctions can force a recipient country to comply before the sanctions are actually applied. Since empirical studies cannot account for these situations this creates a survivorship bias in terms of cases where sanctions were successful were not accounted for. The sending country did not need to actualyl apply the sanctions. The inclusion of only cases where sanctions were actually applied creates a sample of less effective situations when sanctions are applied. This underestimates the actual effectiveness of sanctions.
+
+Self Selection Bias: Senders self-select themselves into a subset of successful sanctions. They choose sanctions that are likely to succeed. This introduces a bias that creates a non-random selection and creates a situation where the effectivness of sanctions appear greater than they actually are.
+
+------------------------------------------------------------------------
+
+**Multilateral Sanctions**
+
+Empirical studies have found multilateral sanctions have agreater effectiveness at getting political outcomes. This requires many countries to act together in imposing sanctions.
+
+However, getting many countries to work together to impose sanctions has a performative issue as there is a *collective action problem*. Each country has competing incentives an this requires strong coordination.
+
+Why economic sanctions often fail to destabilize target regimes.
+
+In autocracies the changing of a leader does not always mean the democratization of that state. The changing of leadership does not necessarily change the population of the private selectorate. This might just change the leader but leave the same ruling elite in power. That ruling elite is what truly makes the autocratic regime live so the changing of leadership does not necessarily ahieve the desired political outcome.

@@ -14,7 +14,7 @@ There are some widely accepted patterns that are said to be empirical.
 
 Therefore, looking at the table it’s easy to find that when a democracy initiates a war it is less likely to lose. It’s also possible to see that in general democracies tend to not get involved in wars. Even when being targeted, democracies tend to win more than they lose.
 
-Under which \\X^2(6) = 12.7, p - 0.48\\ indicating that the differences in the table are statistically significant.
+Under which $X^2(6) = 12.7, p - 0.48$ indicating that the differences in the table are statistically significant.
 
 These wars are all wars with more casualties than 1000 since 1816. Anocracies are a mix of a democracy and an autocracy.
 
