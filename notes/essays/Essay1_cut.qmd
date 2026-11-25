@@ -1,0 +1,103 @@
+---
+title: "Video Essay 1"
+date: "11-25-2026"
+author: "William Fowle"
+
+format:
+    pdf:
+        toc: false
+        number-sections: false
+        margin-top: 1in
+        margin-left:  1in
+        margin-right: 1in
+        margin-bottom: 1in
+        mainfont: Times New Roman
+        fontsize: 12pt
+        linestretch: 1.67
+
+
+---
+
+{{< pagebreak >}}
+
+<!-- Cut version (2026-11-25), trimmed from Essay1_draft.qmd. The full draft is unchanged. -->
+
+## Summary
+
+John Mearsheimer's lecture "Why China Cannot Rise Peacefully" (Centre for International Policy Studies uOttawa, 2012) argues from a realist perspective (Bak, 2026). He begins with five assumptions: no authority sits above states; all states have some offensive military capability; no state can be certain about the intentions of another; survival is every state's principal goal; and each state is a rational actor, a black box regardless of what is going on behind the scenes (Bak, 2026). Because there is no 911 to call, states fear each other, and the best survival mechanism is to be a regional hegemon (Bak, 2026). A global hegemon is not very possible, but the U.S., as the regional hegemon of the Western Hemisphere, is "free to roam" and can project power into Europe and Asia. U.S. foreign policy, from the Monroe Doctrine through both world wars, has been about preventing other states from becoming regional hegemons that could do the same. That is why he believes China cannot rise peacefully: the U.S. will work to contain it, and China's neighbors, like Japan, India, and Russia, will fear its rise and want the U.S. to stay in Asia.
+
+## Response
+
+His lecture is from 14 years ago, and his prediction holds up pretty well. U.S. foreign policy has shifted away from Europe and toward Asia; Donald Trump consistently states that Europe needs to pull its fair share and that the U.S. will not always be around. The U.S. protection of the Monroe Doctrine also still holds. When Chinese relations with Venezuela became quite strong, with Venezuela providing China a lot of oil and becoming the largest buyer of Chinese military equipment in Latin America (U.S.-China Economic and Security Review Commission [USCC], 2026), the U.S. removed Maduro from power and installed his vice president, Delcy Rodríguez (Phillips, 2026). Venezuela's oil sales to China collapsed almost immediately, and the largest share of its oil exports now goes to the U.S. (Parraga, 2026). That is very comparable to the Cuban Missile Crisis, and it shows that U.S. interest in Asia is really about preventing China from establishing its own regional hegemony.
+
+His point about China's neighbors holds up less well. BRICS has grown since his lecture, and some powers that feel they have some equivalence of power, like Russia and India, are willing to partner with China as a means to grow outside U.S. influence. Still, countries like Japan and the Philippines very much want to keep the U.S. presence in Asia, and Russia, India, and Brazil are allies of China economically, not militarily. In any fight with the U.S. and its regional allies, China would be largely on its own.
+
+I also want to challenge his assumption that China will continue to grow. Fourteen years ago, China was by far the fastest-growing economy in the world. Today its housing industry is crashing, and the U.S. and other information economies are making a concerted effort to prevent China from continuing to steal IP, so the techniques China used to grow its industry will not be as successful. The bigger challenge is demographic. RAND projects China could lose about 250 million of its 1.4 billion people by 2050; by then, people 65 and older could make up nearly a third of the population, with fewer than two working-age adults for every person 65 and older (Bouey et al., 2026). China will continue to grow, but it probably will not surpass the U.S. at the pace we expected 14 years ago, because it does not have the bodies to support the continued growth of its industries, and massive government stimulus can only work for so long. The same decline limits its military: China is probably at the peak of its military potential right now.
+
+That leaves China with a real dilemma over Taiwan. China already flexes its position at sea, claiming historic rights to nearly all the waters inside its nine-dash line, its official position since its 1992 Territorial Sea Law and a claim an international tribunal rejected in 2016 (Council on Foreign Relations, 2024, 2026; U.S. Department of State, 2014). But Taiwan is the real test. The U.S. is very interested in Taiwan because of semiconductor manufacturing at TSMC, and if China ever made a move on Taiwan, it would be broadcasting to the world that it believes it is more capable as a regional hegemon than the U.S. An invasion, though, would be enormously costly. Ukraine, a smaller nation with a massive land border that is much harder to defend than a coastline, has held a much larger Russian force to very costly and very small gains. China would face a better-prepared defender and would have to cross the Taiwan Strait with a massive force, in seas calm enough only in narrow windows, roughly April to May and September to October (Sorensen, 2026). Amphibious operations depend heavily on sea states (Blasko, 2024, pp. 71–72), and sealift would be the primary link for forces and supplies (McCauley, 2024, p. 308), so the weather would have to hold for the supply lines that follow the landing too.
+
+The United States planned exactly this kind of operation during World War II. Operation Causeway would have been the largest sea-air-land engagement in world history and was estimated to need a force of 776,913 (Easton, 2024, p. 20), against a Japanese garrison U.S. intelligence put at only about 35,000 (Easton, 2024, p. 22). The U.S. ultimately judged the island too difficult to attack at a cost it could justify (Easton, 2024, p. 28). Taiwan today has 169,000 active personnel and about 1.66 million reservists (DefenseMatrixLab, 2026), while the PLA lacks the amphibious lift to carry even the roughly 30,000 personnel of its six amphibious combined-arms brigades and would have to rely heavily on civilian ships (Blasko, 2024, p. 75; Erickson et al., 2024, p. 11). It is more likely impossible, let alone costly, and even if China won, the victory would almost certainly be Pyrrhic. Yet if it does not take Taiwan, it cannot project the power needed to become the regional hegemon Mearsheimer predicts.
+
+Oil makes this worse. As Mearsheimer points out, and as I agree, the U.S. defeated a very powerful Japan virtually on its own (Centre for International Policy Studies uOttawa, 2012, 26:25), largely because it outproduced an isolated island nation that could not sustain its navy. When the U.S. restricted oil exports to Japan, that was a large part of Japan's decision to go to war. China is the world's largest importer of crude oil, and its own production covers only 32.6% of what it consumes (U.S. Energy Information Administration [EIA], 2026; Worldometer, n.d.). By restricting Venezuelan oil and blockading Iranian oil (Institute for the Study of War & Critical Threats Project, 2026; Parraga, 2026), sources that together supplied about 15% of China's crude imports in 2025 (Downs, 2026), the U.S. has shown it can control enough of China's oil to keep it from sustaining large-scale combat operations over a long period. Without that ability, or the credible threat of it, China cannot establish the regional hegemony that would let it "free-roam."
+
+## Policy Recommendations
+
+My policy recommendation is that the U.S. keep doing what it is doing. China has a lot of reasons not to invade Taiwan, and the U.S. does not need to sign any agreement stating that it will defend Taiwan; it just needs to keep giving China the perception that it would. Shifting U.S. power projection toward Asia makes sense, and since the U.S. already has a well-established position there, it needs only to maintain that power projection and continue to innovate technologically. It does not have to control Asia, but it does need the members of the region on its side, and it must not allow China or any other power to establish strong connections in the Western Hemisphere. The policies that will most limit China's ability to become a regional hegemon are limiting its ability to steal intellectual property, diversifying semiconductor manufacturing, and keeping enough constraints in place that an invasion of Taiwan remains infeasible. The U.S. is already doing this through strict export controls on advanced chips and through the CHIPS Act, which is moving manufacturing like TSMC's onto U.S. shores (National Institute of Standards and Technology [NIST], n.d.; TSMC, 2025). The Biden administration passed the CHIPS Act, and the Trump administration has continued it (NIST, 2026). China is in effect peaking in power, so the U.S. only really needs to prevent it from taking action while it is at that peak. From there, it becomes a waiting game, as China's growth and its population advantage wane over the coming decades.
+
+{{< pagebreak >}}
+
+# References {.unnumbered}
+
+```{=latex}
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+```
+
+Bak, D. (2026). *State, power, anarchy, and international relations paradigms* [Lecture notes]. POLS 2361: International Politics, Texas Tech University.
+
+Blasko, D. J. (2024). The PLAGF amphibious force: Missions, organization, capabilities, and training. In A. S. Erickson, C. M. Kennedy, & R. D. Martinson (Eds.), *Chinese amphibious warfare: Prospects for a cross-strait invasion* (CMSI Study No. 8, pp. 65–84). China Maritime Studies Institute, U.S. Naval War College. https://digital-commons.usnwc.edu/cmsi-studies/8
+
+Bouey, J., Pollard, M. S., Wang, A. X., & Pandey, R. (2026). *China's aging population and the implications for China's security* (Research Brief No. RB-A3372-1). RAND Corporation. https://www.rand.org/pubs/research_briefs/RBA3372-1.html
+
+Centre for International Policy Studies uOttawa. (2012, October 26). *Why China cannot rise peacefully* [Video]. YouTube. https://www.youtube.com/watch?v=CXov7MkgPB4
+
+Council on Foreign Relations. (2024, May 22). *China's maritime disputes*. https://www.cfr.org/articles/chinas-maritime-disputes
+
+Council on Foreign Relations. (2026, August 27). *Territorial disputes in the South China Sea*. Global Conflict Tracker. https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea
+
+DefenseMatrixLab. (2026, November 11). *Taiwan military strength 2026*. https://www.defensematrixlab.com/en/countries/taiwan
+
+Downs, E. (2026, January 29). *Where China gets its oil: Crude imports in 2025 reveal stockpiling and changing fortunes of certain suppliers, including those sanctioned*. Center on Global Energy Policy, Columbia University. https://www.energypolicy.columbia.edu/where-china-gets-its-oil-crude-imports-in-2025-reveal-stockpiling-and-changing-fortunes-of-certain-suppliers-including-those-sanctioned/
+
+Easton, I. (2024). *Invasion plans: Operation Causeway and Taiwan's defense in World War II* (China Maritime Report No. 42). China Maritime Studies Institute, U.S. Naval War College. https://digital-commons.usnwc.edu/cmsi-maritime-reports/42
+
+Erickson, A. S., Kennedy, C. M., & Martinson, R. D. (Eds.). (2024). *Chinese amphibious warfare: Prospects for a cross-strait invasion* (CMSI Study No. 8). China Maritime Studies Institute, U.S. Naval War College. https://digital-commons.usnwc.edu/cmsi-studies/8
+
+Institute for the Study of War & Critical Threats Project. (2026, November 23). *Iran update, November 23, 2026*. https://understandingwar.org/research/middle-east/iran-update-november-23-2026/
+
+McCauley, K. (2024). PLA logistics support for large-scale amphibious warfare. In A. S. Erickson, C. M. Kennedy, & R. D. Martinson (Eds.), *Chinese amphibious warfare: Prospects for a cross-strait invasion* (CMSI Study No. 8, pp. 299–340). China Maritime Studies Institute, U.S. Naval War College. https://digital-commons.usnwc.edu/cmsi-studies/8
+
+National Institute of Standards and Technology. (n.d.). *TSMC Arizona*. CHIPS for America. https://www.nist.gov/chips/tsmc-arizona-phoenix
+
+National Institute of Standards and Technology. (2026, July 16). *Trump administration secures an additional \$100 billion U.S. semiconductor manufacturing investment for a total of \$265 billion from TSMC*. https://www.nist.gov/news-events/news/2026/07/trump-administration-secures-additional-100-billion-us-semiconductor
+
+Parraga, M. (2026, March 3). Venezuela's oil exports fell in February with loss of China, larger cargoes ahead. *Reuters*. https://www.reuters.com/business/energy/venezuelas-oil-exports-fell-65-february-with-loss-chinese-market-data-shows-2026-03-03/
+
+Phillips, T. (2026, February 12). 'Big step forwards': Emboldened activists take to the streets of Venezuela. *The Guardian*. https://www.theguardian.com/world/2026/feb/12/venezuela-protests-activists-nicolas-maduro-donald-trump-caracas
+
+Sorensen, J. (2026, May 13). Two windows: The months when China could take Taiwan, and USA's moves to stop it. *The Geopolitics Report* (Medium). https://medium.com/the-geopolitics-report/two-windows-the-months-when-china-could-take-taiwan-and-usas-moves-to-stop-it-b81d0a90f38f
+
+TSMC. (2025, March 4). *TSMC intends to expand its investment in the United States to US\$165 billion to power the future of AI* [Press release]. https://pr.tsmc.com/english/news/3210
+
+U.S.-China Economic and Security Review Commission. (2026, January 13). *China-Venezuela fact sheet: A short primer on the relationship*. https://www.uscc.gov/research/china-venezuela-fact-sheet-short-primer-relationship
+
+U.S. Department of State. (2014). *China: Maritime claims in the South China Sea* (Limits in the Seas No. 143). Bureau of Oceans and International Environmental and Scientific Affairs. https://www.state.gov/wp-content/uploads/2019/10/LIS-143.pdf
+
+U.S. Energy Information Administration. (2026, July 31). *China's crude oil imports fell in the second quarter*. https://www.eia.gov/todayinenergy/detail.php?id=67905
+
+Worldometer. (n.d.). *China oil reserves, production and consumption statistics*. https://www.worldometers.info/oil/china-oil/
+
+```{=latex}
+\endgroup
+```
