@@ -1,0 +1,39 @@
+---
+title: "Lecture 9-16-2026"
+---
+
+# Democratic Victory
+
+There are some widely accepted patterns that are said to be empirical.
+
+| Outcome         | Democracy | Anocracy | Autocracy  | Total |
+|-----------------|-----------|----------|------------|-------|
+| Initatiors Win  | 14        | 21       | 21         | 56    |
+| Initiators Lose | 1         | 15       | 14         | 30    |
+| Targets Win     | 12        | 27       | 31         | 65    |
+| Targets Lose    | 7         | 27       | 31         | 65    |
+| Total           | 34        | 81       | 82         | 197   |
+
+Therefore, looking at the table it's easy to find that when a democracy initiates a war it is less likely to lose. It's also possible to see that in general democracies tend to not get involved in wars. Even when being targeted, democracies tend to win more than they lose.
+
+Under which $X^2(6) = 12.7, p - 0.48$ indicating that the differences in the table are statistically significant.
+
+These wars are all wars with more casualties than 1000 since 1816. Anocracies are a mix of a democracy and an autocracy.
+
+In 1992 David Lake found that democracies win more often than lose in warfighting. The major work was done by Reiter and Stam (2002) and they distinguished two clear mechanisms:
+
+In terms of duration of wars, democracies tend to have wars of shorter lengths than that of Anoncracy and Autocracy. Democracies also tend to have lesser casualties.
+
+## Democratic Selection
+
+In democracies political leaders tend to want to maintain their political offices, fighting a losing war is a really good way to lose your office, therefore, democratic leaders tend to choose wars they can win.
+
+Democracies tend to initiate conflicts against targets that are inferior, as opposed to autocracies that will initiate wars against inferior targets. This is called the **Selection Mechanism**
+
+When democratic leaders lose a war they are very likely to lose their office. THis mechanism is based on the selctorate theory. Democracies are not inherently better warfighters, however, they tend to select particular kinds of wars they are more likely to win.
+
+When you compare the combatants of the above table, democratic war powers have drastically more resources and power than their opposing belligerents. Despite this, autocratic leaders tend to face harsher consequences when losing wars as the result of them losing office tends to be more severe in nature.
+
+Democracies are more willing and more able to mobilize resources, once committed, democratic resources tend to overwhelm autocracies. When autocracies and democratic leaders started wars (in war games) with identical resources, 2/3 of the time democratic leaders outspent autocratic opponents. Reiter and Stam argue that democratic societies are more open and are able to be more innovative and have a more transparent and therefore effective communication which provides better logistics, leadership, and initiative.
+
+Overall, democracies (democratic peace) tend to not fight against eachother. Democratic societies tend to fight harder but also tend to select wars that are easier to win. Democracies also tend to fight shorter wars. As wars drag on, democratic societies tend to lose their initiative whereas autocratic societies tend to be able to fight harder for longer. When a democratic war drags on, it may become the political high ground to stop fighting the war.

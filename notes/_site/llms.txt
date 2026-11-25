@@ -1,0 +1,5 @@
+# POLS2306 Notes
+
+## Pages
+
+- [notes](index.llms.md)

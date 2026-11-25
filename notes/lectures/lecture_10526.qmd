@@ -1,0 +1,50 @@
+---
+title: "Lecture 10-5-2026"
+---
+
+# Rational Actors and Rational War Puzzle Cont.
+
+1. States are rational actors, typically a state is a collective actor. But in International relations they are considered unitary actors. 
+    - States can exhibit irrational behavior, especially when the state is ruled by the preference of just a few elites. 
+
+2. Any given issue in emergency bargaining is divisible which lends space for negotiation. 
+
+3. Each State has complete information. 
+
+Under these assumptions the war puzzle both have some cost of war that prevent either state from achieving a perfect outcome. Therefore, the bettter outcome is always a negotiated settlement that lands in the range of the "Bargaining Surplus."
+
+Any agreement in the bargaining range explicitly allows the countries war payoff (really payoff inspite of war) to be greater than had they fought that war and won. 
+
+---
+
+All of these cases present that there is some uncertainty that causes countries to miscalculate and go to war. 
+
+## Private Information 
+
+Between two states bargaining State A and State B have some information that is prviate to them. This information is something they would want to misrepresent to the opposite state. 
+
+E.g. China and the US negotating a slow down to the AI arms race. 
+
+IF the US or China knows exactly where the US's reservation price is at its lowest, China will always demand that value. So therefore, the US must present misinformation in order to force China to choose an ambiguous reservation price, or the price they believe that the US is willing to settle on. And the same applies vice versa. 
+
+## Commitment Problem (Time Inconsistency Problem)
+
+When two actors sign an agreement if Actor A and Actor B have disparity in their amount of power. Actor B must believe that Actor A will hold up it's end of the bargain. 
+
+Molotov-Ribbentrov pact in WWII. 
+
+Each actor must have credibility that they will follow through with their end of the agreement. Without such credibility then it will be much harder for both actors to reach an agreement. 
+
+## Logic of Preventive War
+
+The idea that the other country will immeniently attack thereby convincing a country to go to war because there if there is an inevitability then it is better to be the initiator. 
+
+Fighting today is better than giving up more tomorrow. 
+
+States have an incentive to fight today, because the enemy may demand more in the future since we don't beleive he will follow through with his commmitment that has been bargained upon. 
+
+## Issue Indivisiblity 
+
+If an issue is indivisible then bargaining will not occur in the first place. Only when the issue is divisible with side payments or reliquinshment. 
+
+Wars of survival might be an example. These issues are very hard to find.
